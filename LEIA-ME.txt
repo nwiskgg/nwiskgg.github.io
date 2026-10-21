@@ -1,0 +1,26 @@
+PORTFÓLIO PENÉLOPE DIAS ROSA
+
+COMO USAR
+1. Abra index.html no navegador para visualizar o layout.
+2. Mantenha style.css na mesma pasta de index.html.
+3. Crie uma pasta chamada images e coloque nela suas imagens.
+4. Use os nomes abaixo para substituir os espaços reservados:
+
+images/hero-art.png
+images/ilustracao.png
+images/dublagem.png
+images/musica.png
+images/projeto-01.png até images/projeto-06.png
+
+Se uma imagem não existir, o layout exibe uma composição de cores e texto provisória.
+Os links das redes sociais estão como #. Substitua pelos seus endereços reais.
+
+FONTES
+O layout usa Google Fonts (DM Sans, Righteous e Roboto Slab). É necessária conexão
+com a internet para carregar essas fontes; se estiver offline, serão usadas fontes alternativas.
+
+WORDPRESS.COM GRATUITO
+Este pacote é um modelo HTML/CSS independente. O WordPress.com gratuito normalmente
+não permite enviar um site HTML completo como tema nem editar livremente os arquivos
+do tema. Para reproduzir o visual nele, monte as seções com blocos do editor e use o CSS
+adicional somente se esse recurso estiver disponível no seu plano/tema.
